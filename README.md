@@ -6,7 +6,7 @@ Built with modern web technologies, this project aims to combine AI and creativi
 ---
 
 ## 🌐 Website
-Visit the live website here: **[Lofi Music Generator]([https://lofi-music.github.io](https://blankk1.github.io/Music-Generator/))**
+Visit the live website here: **https://blankk1.github.io/Music-Generator/**
 
 ---
 
